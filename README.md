@@ -26,5 +26,5 @@ Eu usei uma biblioteca externa, um pacote NuGet, para fazer o menu, então se vo
 :x:O jogo ainda não tem uma 🤖 IA para o usuário joga contra.
 
 ## Então só falta um pouquinho pra acabar :pinching_hand: :trollface:
-### Se quiser me ajudar você é bem-vindo(a) faça seu fork 🍴 e serviça desse desafio 🍽️.
+### Se quiser me ajudar você é bem-vindo(a) faça seu fork 🍴 e serviça-se desse desafio 🍽️.
 
